@@ -1,4 +1,4 @@
-# DSC 빅데이터 분석 / 머신러닝 세션
+# [GDSC 4기 멤버 활동] 빅데이터 분석 / 머신러닝 세션
 
 ## .ipynb 오류
 - 오류 : "Sorry something went wrong. Reload?"
